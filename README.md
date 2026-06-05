@@ -22,6 +22,7 @@ Cada pasta dentro de `listas/` corresponde a uma lista de exercícios da discipl
 ## ⚠️ Observações
 
 A maioria dos exercícios utiliza a biblioteca `io.h`. Certifique-se de que seu compilador suporta essa lib antes de rodar os programas.
+A partir da lista 11 foi iniciado o uso de linguagem C++.
 
 ---
 
